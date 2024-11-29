@@ -1,14 +1,9 @@
 Project Title: Emotion and Emotion Classification using voice
+Description:-
+This repository contains all the code and related work completed during the CSE343/ECE363 Machinee Learning course . The **assets** folder includes the dataset used for gender recognition, while the dataset for emotion recognition is attached separately. The **src** folder contains the code for all models developed in the project as well as data preprocessing scripts. 
 
-Description:
-
-This repository contains all the codes and work done for Machine Learning Group project on the topic of Employee Attrition Analysis and Prediction Project taken under CSE343 : Machine leanring course under Jainendra Shukla sir at IIIT - Delhi in Monsoon 2024 semester. The project aims predict employee attrition using machine learning models, leveraging the IBM HR Analytics Employee Attrition Dataset. 
-
-In this project, we:
-- Conducted exploratory data analysis (EDA) to uncover patterns and trends related to attrition.
-- Preprocessed the dataset to handle missing values, encode categorical features, and scale numerical data.
-- Applied and evaluated multiple machine learning models to predict attrition.
-- Focused on identifying the most influential factors contributing to employee turnover.
+You can find the emotion dataset in kaggle or click on below link. 
+https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio
 
 Group Members :-
 1. Abdullah Shujat (2022013)

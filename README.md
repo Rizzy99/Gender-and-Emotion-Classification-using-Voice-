@@ -1,4 +1,5 @@
 Project Title: Emotion and Emotion Classification using voice
+
 Description:-
 This repository contains all the code and related work completed during the CSE343/ECE363 Machinee Learning course . The **assets** folder includes the dataset used for gender recognition, while the dataset for emotion recognition is attached separately. The **src** folder contains the code for all models developed in the project as well as data preprocessing scripts. 
 
